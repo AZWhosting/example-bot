@@ -10,7 +10,7 @@ require_once __DIR__ . '/vendor/autoload.php';
 
 // Add you bot's API key and name
 $bot_api_key  = 'your:bot_api_key';
-$bot_username = 'username_bot';
+$bot_username = 'username_bot'; // Without "@"
 
 // Define the URL to your hook.php file
 $hook_url     = 'https://your-domain/path/to/hook.php';
